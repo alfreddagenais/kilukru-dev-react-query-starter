@@ -1,0 +1,19 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Black Panther",
+      "alterEgo": "T'Challa"
+    },
+    {
+      "id": 2,
+      "name": "Magneto",
+      "alterEgo": "Professor X"
+    },
+    {
+      "id": 3,
+      "name": "Black Widow",
+      "alterEgo": "Natalia Alianovna Romanova"
+    }
+  ]
+}
